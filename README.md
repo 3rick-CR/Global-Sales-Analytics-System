@@ -2,10 +2,10 @@
 Sistema integral de análisis de datos de ventas globales utilizando Python para procesos ETL, SQL para modelado relacional y Power BI para visualización estratégica.
 ---
 
-## Objetivo del Proyecto
+## Objetivo del Proyecto:
 El propósito de este repositorio es transformar datos transaccionales de una operación de retail internacional en información accionable para la toma de decisiones. El análisis se centra en la rentabilidad de productos y la segmentación de la base de clientes.
 
-## Fases del Desarrollo
+## Fases del Desarrollo:
 
 ### 1. Extracción y Limpieza de Datos (Python)
 * Normalización de estructuras de datos y corrección de tipos.
@@ -21,6 +21,6 @@ El propósito de este repositorio es transformar datos transaccionales de una op
 * Desarrollo de dashboards interactivos para el monitoreo de ventas globales.
 * Análisis de tendencias temporales y rendimiento regional.
 
-## Stack Tecnológico
+## Stack Tecnológico:
 * Lenguajes: Python (Pandas, Numpy), SQL.
 * Herramientas: Jupyter Notebooks, Power BI, GitHub (Control de Versiones).
