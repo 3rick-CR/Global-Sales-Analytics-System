@@ -1,4 +1,3 @@
-# 📂 Diccionario de Insights SQL
 # 📂 Análisis Estratégico de Ventas con SQL
 
 En este apartado se encuentra la lógica de negocio aplicada al dataset `Global_Superstore`. El objetivo de estas consultas es transformar datos transaccionales en **insights accionables** para las áreas de Finanzas, Logística y Marketing.
