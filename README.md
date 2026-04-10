@@ -16,6 +16,7 @@ El propósito de este repositorio es transformar datos transaccionales de una op
 * Diseño de esquema relacional (Hechos y Dimensiones).
 * Análisis de Pareto: Identificación del inventario crítico (Regla 80/20).
 * Segmentación RFM: Clasificación de clientes por valor y frecuencia de compra.
+* 🔗 [Ver análisis SQL](./sql/)
 
 ### 3. Business Intelligence (Power BI)
 * Desarrollo de dashboards interactivos para el monitoreo de ventas globales.
