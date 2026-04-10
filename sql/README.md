@@ -9,25 +9,15 @@ En este apartado se encuentra la lógica de negocio aplicada al dataset `Global_
 A continuación, se detallan los 8 análisis fundamentales realizados para el proyecto:
 
 ### 1. 📈 Análisis de Rentabilidad Transaccional
-* **objetivo:** Identificar la rentabilidad neta individual de cada operación
+* **Objetivo:** Identificar la rentabilidad neta individual de cada operación
 * **Valor:** : Permite realizar auditorías rápidas y asegurar que ninguna venta comprometa la utilidad global debido a desviaciones en costos operativos o errores de precio.
 * 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/970573bd077b5d8e2275fe2e173b40c7272abc37/sql/superstore.sql#L101)
 
 
-
-
-
-
-🔗 Ver Query
-* 🔗 [Ver Query](./insights.sql#L1)
-
-
-
-
 ### 2. ⭐ Productos de Alto Rendimiento (Top 10)
-* **Pregunta de Negocio:** ¿Qué productos con ventas superiores a $1,000 USD tienen el mejor margen?
-* **Valor:** Permite al equipo de compras priorizar el inventario de productos con mejor retorno de inversión (ROI).
-* 🔗 [Ver Query](./insights.sql#L15)
+* **Objetivo:** Identificar los productos con mejor desempeño combinando volumen de ventas y rentabilidad, priorizando aquellos con ingresos significativos.
+* **Valor:** Permite detectar productos estratégicos para el negocio, optimizar el portafolio y enfocar esfuerzos comerciales en aquellos que generan mayor margen sin sacrificar volumen.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L113)
 
 ### 3. 🌍 Desempeño por Región Geográfica
 * **Pregunta de Negocio:** ¿Qué mercados son líderes en ingresos y eficiencia de costos?
