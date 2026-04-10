@@ -20,4 +20,4 @@ Se genera un dataset limpio y estructurado listo para análisis:
 Global_Superstore_Clean.csv
 📓 Notebook
 
-🔗 [Ver Notebook](./python/01_Exploratory_Data_Analysis.ipynb)
+🔗 [Ver Notebook](01_Exploratory_Data_Analysis.ipynb)
