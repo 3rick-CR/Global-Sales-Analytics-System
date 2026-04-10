@@ -12,7 +12,7 @@ A continuación, se detallan los 8 análisis fundamentales realizados para el pr
 * **Objetivo:** Identificar la rentabilidad neta individual de cada operación
 * **Valor:** Permite realizar auditorías rápidas, asegurando que ninguna venta comprometa la utilidad global debido a desviaciones en costos operativos o errores de precio.
 * 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/main/sql/superstore.sql#L101)
-
+<br>
 
 ### 2. ⭐ Productos de Alto Rendimiento (Top 10)
 * **Objetivo:** Identificar los productos con mejor desempeño combinando volumen de ventas y rentabilidad, priorizando aquellos con ingresos significativos.
