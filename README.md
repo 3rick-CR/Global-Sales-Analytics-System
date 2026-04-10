@@ -1,29 +1,94 @@
-# Global-Sales-Analytics-System
-Sistema integral de análisis de datos de ventas globales utilizando Python para procesos ETL, SQL para modelado relacional y Power BI para visualización estratégica.
+# 🌍 Global Sales Analytics System
+
+Sistema integral de análisis de datos de ventas globales que transforma datos transaccionales en **insights estratégicos de negocio**, utilizando Python para procesos ETL, SQL para análisis avanzado y Power BI para visualización interactiva.
+
 ---
 
-## Objetivo del Proyecto:
-El propósito de este repositorio es transformar datos transaccionales de una operación de retail internacional en información accionable para la toma de decisiones. El análisis se centra en la rentabilidad de productos y la segmentación de la base de clientes.
+## 🎯 Objetivo del Proyecto
 
-## Fases del Desarrollo:
+El propósito de este proyecto es convertir datos de una operación de retail internacional en información accionable para la toma de decisiones.
 
-### 1. Extracción y Limpieza de Datos (Python)
-* Normalización de estructuras de datos y corrección de tipos.
-* Tratamiento de valores nulos en variables geográficas.
-* Feature Engineering: Cálculo de márgenes de utilidad y tiempos de logística.
-*  🔗 [Ver proceso ETL](./python/README.md)
+El análisis se enfoca en:
+- Rentabilidad de productos
+- Comportamiento del cliente
+- Eficiencia operativa
+- Impacto de estrategias comerciales (descuentos)
 
+---
 
-### 2. Modelado y Análisis Avanzado (SQL)
-* Diseño de esquema relacional (Hechos y Dimensiones).
-* Análisis de Pareto: Identificación del inventario crítico (Regla 80/20).
-* Segmentación RFM: Clasificación de clientes por valor y frecuencia de compra.
-* 🔗 [Ver análisis SQL](./sql/README.md)
+## 🔄 Flujo del Proyecto
 
-### 3. Business Intelligence (Power BI)
-* Desarrollo de dashboards interactivos para el monitoreo de ventas globales.
-* Análisis de tendencias temporales y rendimiento regional.
+Este proyecto sigue un pipeline completo de análisis de datos:
 
-## Stack Tecnológico:
-* Lenguajes: Python (Pandas, Numpy), SQL.
-* Herramientas: Jupyter Notebooks, Power BI, GitHub (Control de Versiones).
+**Datos crudos → Limpieza (Python) → Análisis (SQL) → Visualización (Power BI)**
+
+---
+
+## 🧩 Fases del Desarrollo
+
+### 1. 🐍 Extracción y Limpieza de Datos (Python)
+- Carga de datos desde fuente externa (CSV)
+- Normalización de estructuras y nombres de columnas
+- Validación de calidad de datos
+- Conversión de tipos (fechas, numéricos)
+- Feature Engineering:
+  - `days_to_ship` (logística)
+  - `discount_amount`
+  - `unit_price`
+  - `profit_status`
+
+🔗 [Ver proceso ETL](./python/README.md)
+
+---
+
+### 2. 🧠 Análisis Estratégico de Negocio (SQL)
+
+Se desarrollaron consultas enfocadas en generar insights accionables:
+
+- Rentabilidad por transacción (auditoría de márgenes)
+- Productos más rentables vs alto volumen
+- Desempeño por región (brechas de rentabilidad)
+- Análisis financiero por categoría
+- Identificación de clientes de alto valor (VIP)
+- Eficiencia logística (tiempos de entrega)
+- Tendencias y estacionalidad de ventas
+- Impacto de descuentos en la rentabilidad
+
+Este análisis permite detectar:
+- Productos que venden mucho pero no generan utilidad
+- Regiones con alto ingreso pero bajo margen
+- Estrategias de descuento que afectan negativamente el negocio
+
+🔗 [Ver análisis SQL](./sql/README.md)
+
+---
+
+### 3. 📊 Business Intelligence (Power BI)
+
+- Desarrollo de dashboards interactivos
+- Visualización de KPIs clave:
+  - Ventas
+  - Ganancia
+  - Margen
+- Análisis temporal y geográfico
+- Soporte para toma de decisiones estratégicas
+
+---
+
+## 🛠️ Stack Tecnológico
+
+- **Lenguajes:** Python, SQL  
+- **Herramientas:** Pandas, Jupyter Notebook, MySQL, Power BI  
+- **Control de versiones:** GitHub  
+
+---
+
+## 🚀 Resultado
+
+Se construyó un sistema de análisis que permite:
+
+- Evaluar la rentabilidad real del negocio a nivel producto y región  
+- Detectar oportunidades de optimización en precios, costos y logística  
+- Identificar clientes de alto valor para estrategias de fidelización  
+- Analizar el impacto de los descuentos en la rentabilidad  
+- Mejorar la toma de decisiones basada en datos  
