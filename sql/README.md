@@ -11,13 +11,12 @@ A continuación, se detallan los 8 análisis fundamentales realizados para el pr
 ### 1. 📈 Análisis de Rentabilidad Transaccional
 * **objetivo:** Identificar la rentabilidad neta individual de cada operación
 * **Valor:** : Permite realizar auditorías rápidas y asegurar que ninguna venta comprometa la utilidad global debido a desviaciones en costos operativos o errores de precio.
-* 🔗 [Ver Query](./insights.sql#L1)
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/970573bd077b5d8e2275fe2e173b40c7272abc37/sql/superstore.sql#L101)
 
 
-1. 📈 Análisis de Rentabilidad Transaccional
-Objetivo: Identificar la rentabilidad neta individual de cada operación para detectar posibles fugas de capital.
 
-Valor: Permite realizar auditorías rápidas y asegurar que ninguna venta comprometa la utilidad global debido a desviaciones en costos operativos o errores de precio.
+
+
 
 🔗 Ver Query
 * 🔗 [Ver Query](./insights.sql#L1)
