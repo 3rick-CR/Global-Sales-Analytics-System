@@ -1,6 +1,6 @@
 # 📂 Análisis Estratégico de Ventas con SQL
 
-En este apartado se encuentra la lógica de negocio aplicada al dataset `Global_Superstore`. El objetivo de estas consultas es transformar datos transaccionales en **insights accionables** para las áreas de Finanzas, Logística y Marketing.
+Este módulo contiene consultas SQL diseñadas para transformar datos transaccionales en insights accionables para Finanzas, Logística y Marketing.
 
 ---
 
@@ -10,8 +10,8 @@ A continuación, se detallan los 8 análisis fundamentales realizados para el pr
 
 ### 1. 📈 Análisis de Rentabilidad Transaccional
 * **Objetivo:** Identificar la rentabilidad neta individual de cada operación
-* **Valor:** : Permite realizar auditorías rápidas y asegurar que ninguna venta comprometa la utilidad global debido a desviaciones en costos operativos o errores de precio.
-* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/970573bd077b5d8e2275fe2e173b40c7272abc37/sql/superstore.sql#L101)
+* **Valor:** Permite realizar auditorías rápidas y asegurar que ninguna venta comprometa la utilidad global debido a desviaciones en costos operativos o errores de precio.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/main/sql/superstore.sql#L101)
 
 
 ### 2. ⭐ Productos de Alto Rendimiento (Top 10)
@@ -20,44 +20,45 @@ A continuación, se detallan los 8 análisis fundamentales realizados para el pr
 * 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L113)
 
 ### 3. 🌍 Desempeño por Región Geográfica
-* **Pregunta de Negocio:** ¿Qué mercados son líderes en ingresos y eficiencia de costos?
-* **Valor:** Ayuda a la expansión territorial enfocando recursos en las zonas más rentables.
-* 🔗 [Ver Query](./insights.sql#L30)
+* **Objetivo:** Evaluar el rendimiento del negocio por región considerando ventas, ganancia y margen de rentabilidad.
+* **Valor:** Permite identificar regiones más rentables y detectar áreas con bajo desempeño, facilitando decisiones estratégicas sobre expansión, inversión y optimización de recursos.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L130)
 
 ### 4. 📉 Salud Financiera por Categoría
-* **Pregunta de Negocio:** ¿Existen categorías de productos que generen pérdidas netas?
-* **Valor:** Estrategia de producto: decidir si una línea debe ser optimizada, cambiada de proveedor o descontinuada.
-* 🔗 [Ver Query](./insights.sql#L45)
+* **Objetivo:** Evaluar el desempeño financiero de cada categoría de productos mediante el análisis de ventas, ganancia y margen de rentabilidad.
+* **Valor:** Permite identificar categorías con bajo rendimiento o pérdidas, facilitando decisiones para optimizar el portafolio, ajustar estrategias de precios o reducir costos.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L144)
 
 ### 5. 👤 Identificación de Clientes VIP
-* **Pregunta de Negocio:** ¿Quiénes son los 10 clientes con mayor gasto y lealtad acumulada?
-* **Valor:** Marketing de Precisión: crear programas de lealtad para los clientes con mayor *Lifetime Value* (LTV).
-* 🔗 [Ver Query](./insights.sql#L60)
+* **Objetivo:** Identificar a los clientes más valiosos del negocio mediante el análisis de su volumen de compras, frecuencia de pedidos y contribución a la ganancia.
+* **Valor:** Permite enfocar estrategias de retención, fidelización y marketing en los clientes de mayor impacto, maximizando ingresos y rentabilidad a largo plazo.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L158)
 
-### 6. 🚚 Auditoría Logística y SLA
-* **Pregunta de Negocio:** ¿Se cumplen los tiempos de envío según la prioridad (Critical vs. Low)?
-* **Valor:** Optimización de procesos: detectar si las órdenes "críticas" están sufriendo retrasos operativos.
-* 🔗 [Ver Query](./insights.sql#L80)
+### 6. 🚚 Eficiencia Logística y Tiempos de Entrega
+* **Objetivo:** Evaluar la eficiencia del proceso de envío mediante el análisis del tiempo de entrega según la prioridad del pedido, junto con su impacto en la ganancia.
+* **Valor:** Permite identificar ineficiencias logísticas, optimizar tiempos de entrega y asegurar el cumplimiento de niveles de servicio (SLA), mejorando la experiencia del cliente y la rentabilidad operativa.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L177)
 
 ### 7. 🗓️ Análisis de Estacionalidad Mensual
-* **Pregunta de Negocio:** ¿Cómo fluctúan las ventas y el margen de ganancia mes a mes?
-* **Valor:** Previsión de demanda y preparación para temporadas altas (ej. fin de año).
-* 🔗 [Ver Query](./insights.sql#L100)
+* **Objetivo:** Analizar la evolución mensual de las ventas, la ganancia y el margen de rentabilidad para identificar patrones de comportamiento a lo largo del tiempo.
+* **Valor:** Permite detectar tendencias, estacionalidad y variaciones en la demanda, facilitando la planificación estratégica, la optimización de inventarios y la toma de decisiones comerciales.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L195)
 
 ### 8. 🏷️ Impacto de la Estrategia de Descuentos
-* **Pregunta de Negocio:** ¿A partir de qué porcentaje de descuento empezamos a perder dinero?
-* **Valor:** Control de precios: evitar que promociones agresivas canibalicen la utilidad neta.
-* 🔗 [Ver Query](./insights.sql#L120)
+* **Objetivo:** Analizar cómo los diferentes niveles de descuento afectan las ventas, la ganancia y el margen de rentabilidad.
+* **Valor:** Permite evaluar la efectividad de las estrategias de descuento, identificando si realmente impulsan las ventas o si están afectando negativamente la rentabilidad del negocio.
+* 🔗 [Ver Query](https://github.com/3rick-CR/Global-Sales-Analytics-System/blob/f3079b14fc59027c348113578e9f63edc54884c2/sql/superstore.sql#L215)
 
 ---
 
-## 🛠️ Tecnologías y Técnicas Utilizadas
-* **Motor de Base de Datos:** MySQL / SQLite.
-* **Funciones Avanzadas:** * `CASE WHEN` para segmentación de rangos.
-  * `DATE_FORMAT` / `STRFTIME` para análisis temporal.
-  * `NULLIF` para manejo de errores matemáticos (división por cero).
-  * `DISTINCT` para normalización de transacciones.
-  * `HAVING` para filtrado de datos agregados.
+## 🛠️ Tecnologías y Técnicas Utilizadas 
+  * * **Motor de Base de Datos:** MySQL / SQLite  
+  * **Funciones Avanzadas:**
+  - `CASE WHEN` para segmentación de rangos  
+  - `DATE_FORMAT` / `STRFTIME` para análisis temporal  
+  - `NULLIF` para evitar división por cero  
+  - `DISTINCT` para normalización de transacciones  
+  - `HAVING` para filtrado de agregaciones  
 
 ---
 [← Volver al proyecto principal](../README.md)
