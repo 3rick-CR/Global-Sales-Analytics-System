@@ -13,11 +13,12 @@ days_to_ship (tiempo de entrega)
 discount_amount (descuento en valor monetario)
 unit_price (precio por unidad)
 profit_status (clasificación de rentabilidad)
+<br>
+
 📦 Resultado
-
 Se genera un dataset limpio y estructurado listo para análisis:
-
 Global_Superstore_Clean.csv
-📓 Notebook
+<br>
 
+📓 Notebook
 🔗 [Ver Notebook](01_Exploratory_Data_Analysis.ipynb)
