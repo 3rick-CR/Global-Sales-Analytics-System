@@ -24,7 +24,7 @@ El objetivo principal es identificar qué factores afectan la rentabilidad, espe
 
 ## 📸 Vista previa del Dashboard
 
-![Vista previa](./imagen_dashboard.png)
+![Vista previa](./img.png)
 
 ---
 
