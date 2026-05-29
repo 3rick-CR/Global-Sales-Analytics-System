@@ -32,4 +32,4 @@ Global_Superstore_Clean.csv
 📓 Notebook
 🔗 [Ver notebook de limpieza y análisis](./01_Exploratory_Data_Analysis.ipynb)
 
-🔗[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/Global-Sales-AnalyticsSystem/blob/main/python/01_Exploratory_Data_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/3rick-CR/Global-Sales-Analytics-System/blob/main/python/01_Exploratory_Data_Analysis.ipynb)
