@@ -36,4 +36,4 @@ Global_Superstore_Clean.csv
 
 
 
-###[Ver notebook de limpieza y análisis](./01_Exploratory_Data_Analysis.ipynb)
+[Ver notebook de limpieza y análisis](./01_Exploratory_Data_Analysis.ipynb)
