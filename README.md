@@ -1,6 +1,6 @@
-# 🌍 Global Sales Analytics System
-
-Sistema integral de análisis de datos de ventas globales que transforma datos transaccionales en **insights estratégicos de negocio**, utilizando Python para procesos ETL, SQL para análisis avanzado y Power BI para visualización interactiva.
+**🌍Sistema Global de Business Intelligence**
+De datos transaccionales a decisiones estratégicas:
+Un ecosistema integral de análisis de datos que transforma los registros de ventas globales en insights accionables. Desarrollado con un pipeline ETL en Python, consultas optimizadas en SQL para analítica avanzada y dashboards interactivos en Power BI para la toma de decisiones ejecutivas
 
 ---
 
