@@ -1,4 +1,5 @@
 **🌍Sistema Global de Business Intelligence**
+
 De datos transaccionales a decisiones estratégicas:
 Un ecosistema integral de análisis de datos que transforma los registros de ventas globales en insights accionables. Desarrollado con un pipeline ETL en Python, consultas optimizadas en SQL para analítica avanzada y dashboards interactivos en Power BI para la toma de decisiones ejecutivas
 
