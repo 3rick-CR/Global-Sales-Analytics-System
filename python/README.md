@@ -1,6 +1,6 @@
 # 🐍 Limpieza y Preparación de Datos (Python)
 
-En esta fase se realiza el proceso ETL inicial sobre el dataset **Global Superstore**, enfocado en garantizar calidad, consistencia y preparación para análisis posterior en SQL y Power BI.
+En esta fase se realiza el proceso ETL inicial sobre el dataset Global Superstore, enfocado en garantizar calidad, consistencia y preparación para análisis posterior en SQL y Power BI.
 
 ---
 
