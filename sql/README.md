@@ -1,4 +1,4 @@
-# 📂 Análisis Estratégico de Ventas con SQL
+## 📂 Análisis Estratégico de Ventas con SQL
 
 Este módulo contiene consultas SQL diseñadas para transformar datos transaccionales en insights accionables para Finanzas, Logística y Marketing.
 
