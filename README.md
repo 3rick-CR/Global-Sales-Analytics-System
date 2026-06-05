@@ -66,12 +66,13 @@ Este análisis permite detectar:
 
 ### 3. 📊 Business Intelligence (Power BI)
 
-- Desarrollo de dashboards interactivos
+- Desarrollo de dashboard interactivo
 - Visualización de KPIs clave:
-  - Ventas
-  - Ganancia
-  - Margen
-- Análisis temporal y geográfico
+  - Análisis de tendencias y estacionalidad.
+  - Identificación de productos clave.
+  - Ventas y margen por región.
+  - Rentabilidad por categoría
+  - Análisis de rentabilidad por descuentos.
 - Soporte para toma de decisiones estratégicas
 
 ---
