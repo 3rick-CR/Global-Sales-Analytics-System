@@ -75,6 +75,8 @@ Este análisis permite detectar:
   - Análisis de rentabilidad por descuentos.
 - Soporte para toma de decisiones estratégicas
 
+🔗 [Ver dashboard interactivo](./powerbi/README.md)
+
 ---
 
 ## 🛠️ Stack Tecnológico
