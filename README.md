@@ -1,4 +1,4 @@
-## 🌍Sistema Global de Business Intelligence
+## 🌍 Sistema Global de Business Intelligence
 
 De datos transaccionales a decisiones estratégicas:
 Un ecosistema integral de análisis de datos que transforma los registros de ventas globales en insights accionables. Desarrollado con un pipeline ETL en Python, consultas optimizadas en SQL para analítica avanzada y dashboards interactivos en Power BI para la toma de decisiones ejecutivas
@@ -71,7 +71,7 @@ Este análisis permite detectar:
   - Análisis de tendencias y estacionalidad.
   - Identificación de productos clave.
   - Ventas y margen por región.
-  - Rentabilidad por categoría
+  - Rentabilidad por categoría.
   - Análisis de rentabilidad por descuentos.
 - Soporte para toma de decisiones estratégicas
 
@@ -93,4 +93,5 @@ Se construyó un sistema de análisis que permite:
 - Detectar oportunidades de optimización en precios, costos y logística  
 - Identificar clientes de alto valor para estrategias de fidelización  
 - Analizar el impacto de los descuentos en la rentabilidad  
-- Mejorar la toma de decisiones basada en datos  
+- Mejorar la toma de decisiones basada en datos
+- Visualizar de forma centralizada toda la operación global a través de un dashboard interactivo
