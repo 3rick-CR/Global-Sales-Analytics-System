@@ -25,7 +25,7 @@ El objetivo principal es identificar qué factores afectan la rentabilidad, espe
 ## 📸 Vista previa del Dashboard
 
 ![Vista previa](./dashboard_Superstore.jpg)
-![Vista previa](./dashboard_Superstore_23.pdf)
+![Vista previa](./dashboard_Superstore_2.jpg)
 
 ---
 
