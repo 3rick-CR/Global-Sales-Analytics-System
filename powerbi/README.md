@@ -18,7 +18,7 @@ El objetivo principal es identificar qué factores afectan la rentabilidad, espe
 
 ## 📊 Dashboard Interactivo
 
-👉 [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTIzZGU4ZGMtMTc0Yy00YTA5LTkyZjMtMjJkNmJiODEwY2YxIiwidCI6ImU3ZjExZWUzLTE4MzMtNDhjZi05MGQ4LWFlNWRiYTMyMDYzOCJ9)
+👉 [Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzY5MGMxMzAtMDdhMC00OTQ1LWFmNmEtNzBhNWJjNGMwNzcwIiwidCI6ImU3ZjExZWUzLTE4MzMtNDhjZi05MGQ4LWFlNWRiYTMyMDYzOCJ9)
 
 ---
 
