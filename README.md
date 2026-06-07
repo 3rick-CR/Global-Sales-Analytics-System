@@ -98,7 +98,7 @@ Se construyó un sistema de análisis que permite:
 - Mejorar la toma de decisiones basada en datos
 - Visualizar de forma centralizada toda la operación global a través de un dashboard interactivo
 
-**Hallazgos y Conclusiones Estratégicas (Informe Extenso):**
+**Hallazgos y Conclusiones Estratégicas (Informe):**
 
 👉 **[Consultar el Informe de Resultados Finales](./RESULTADOS_FINALES.md)**
 
