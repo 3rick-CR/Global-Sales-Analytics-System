@@ -87,7 +87,7 @@ Este análisis permite detectar:
 
 ---
 
-## 🚀 Resultado
+## 🏆 Resultados del Proyecto
 
 Se construyó un sistema de análisis que permite:
 
@@ -97,3 +97,9 @@ Se construyó un sistema de análisis que permite:
 - Analizar el impacto de los descuentos en la rentabilidad  
 - Mejorar la toma de decisiones basada en datos
 - Visualizar de forma centralizada toda la operación global a través de un dashboard interactivo
+
+**Hallazgos y Conclusiones Estratégicas (Informe Extenso):**
+👉 **[Consultar el Informe de Resultados Finales](./RESULTADOS_FINALES.md)**
+
+
+
