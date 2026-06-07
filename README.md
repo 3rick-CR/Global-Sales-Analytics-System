@@ -99,6 +99,7 @@ Se construyó un sistema de análisis que permite:
 - Visualizar de forma centralizada toda la operación global a través de un dashboard interactivo
 
 **Hallazgos y Conclusiones Estratégicas (Informe Extenso):**
+
 👉 **[Consultar el Informe de Resultados Finales](./RESULTADOS_FINALES.md)**
 
 
