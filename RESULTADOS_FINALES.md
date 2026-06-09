@@ -1,4 +1,4 @@
-# 📊 Informe Exhaustivo de Resultados y Hallazgos del Proyecto
+# 📊 Informe de Resultados y Hallazgos del Proyecto
 
 ### 1. **Eficiencia y Volumen**:
 Al analizar el comportamiento de las ventas, encontramos que artículos cotidianos de bajo costo unitario (como *OIC Binder Clips* o *Prang Chalk Sticks*) registran márgenes de ganancia lineal perfectos de entre el 53% y 58%. Aunque el monto promedio por pedido es bajo, operan con un costo de adquisición casi nulo, manteniendo un flujo de caja saludable.
