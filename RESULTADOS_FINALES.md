@@ -54,6 +54,6 @@ Al realizar el análisis exploratorio detectamos que algunos de los clientes pre
 
 ## 6. Recomendaciones Estratégicas Basadas en Datos
 
-1. **Replantear estrategias en los descuentos**: Establecer un techo Límite, prohibir de manera inmediata cualquier descuento comercial superior al 20%. Los datos demuestran que pasar de ese umbral convierte la venta en una pérdida automática de dinero.
+1. **Replantear estrategias en los descuentos**: Establecer un techo límite, prohibir de manera inmediata cualquier descuento comercial superior al 20%. Los datos demuestran que pasar de ese umbral convierte la venta en una pérdida automática de dinero.
 
 2. **Planificación Logística en inventario**: Diseñar estrategias para robustecer el inventario en los almacenes desde el mes de agosto, previniendo cuellos de botella en la distribución express durante el pico estacional de fin de año.
